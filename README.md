@@ -30,7 +30,7 @@ I'm a passionate data analyst dedicated to transforming raw data into meaningful
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Housing in Brazil Data Analysis Project](https://www.kaggle.com/datasets/louayfaraj/housing-in-brazil)  
+- ✅ I recently completed the Housing in Brazil Data Analysis Project.  
   
 
 - 🌱 I’m currently learning [Data Science Lab] From WorldQuant University(https://www.wqu.edu/adsl-apply)  
