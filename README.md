@@ -3,8 +3,9 @@
 
 
 
-### Glad to see you here!  
-I'm a passionate data analyst dedicated to transforming raw data into meaningful insights. With a strong background in data entry and management, I excel in creating innovative solutions that enhance business performance. My experience includes developing advanced tools using SQL and Excel to streamline operations and visualize complex data trends. I'm driven by curiosity and a commitment to uncovering data stories that drive informed decision-making. Equipped with certifications in SQL, data analytics, and digital marketing, I continually seek new challenges to expand my expertise.  
+I'm a Programmer, AI Enthusiast, and a Co-founder of [Axleo Systems](https://axleosystems.co.uk).
+
+My work primarily involves building SaaS products and backend systems, contributing mainly through designing APIs, integrating LLMs and RAG pipelines, automating workflows, and shipping production-ready web applications.
   
 
 
@@ -30,22 +31,19 @@ I'm a passionate data analyst dedicated to transforming raw data into meaningful
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- ✅ I recently completed the Housing in Brazil Data Analysis Project.  
-  
+- 🔭 I'm currently building SaaS products and backend systems
 
-- 🌱 I’m currently learning [Data Science Lab] From WorldQuant University(https://www.wqu.edu/adsl-apply)  
-  
+- 🤖 I'm exploring LLM integrations and RAG pipelines
 
-- ❓ Curious about data analysis or visualization? Ask me anything!  
-  
+- ⚡ Fun fact: I keep night shift switched on at all times
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- 💬 Ask me about APIs, SaaS architecture, or AI integrations 
 
 
 </td><td valign="top" width="50%">
 
 <div align="right">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhkYTZ0dXNjdmxwdzVnMDNsenp4ODdmb2JscmZoaGc1Z2czaGprbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" align="right" style="width: 100%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM4NzZmMGlobXQzcTR6MW9ubjRqcmVxcGpoaTVjejN4Z2c2M2U1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" align="right" style="width: 100%" />
 </div>  
 
 
@@ -78,40 +76,3 @@ I'm a passionate data analyst dedicated to transforming raw data into meaningful
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=louayfj&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louayfj&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=louayfj&&style=flat-square)  
-  
-
-<br/>  
-
-<div align="left">
-            <a href="https://www.buymeacoffee.com/buymeacoffee.com/louayfaraj" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>
-<br />
-
---------
-<div class="footer-text"> &copy; 2024 Louay Faraj. <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0 License</a>.
-                        </div>
