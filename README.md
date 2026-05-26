@@ -3,7 +3,7 @@
 
 
 
-I'm a Programmer, AI Enthusiast, and a Co-founder of [Axleo Systems](https://axleosystems.co.uk).
+I'm a Programmer, AI Engineer, and a Co-founder of [Axleo Systems](https://axleosystems.co.uk).
 
 My work primarily involves building SaaS products and backend systems, contributing mainly through designing APIs, integrating LLMs and RAG pipelines, automating workflows, and shipping production-ready web applications.
   
