@@ -1,107 +1,78 @@
-## Hey 👋, I'm Louay!  
+## Hey 👋, I'm Louay!
 
+I'm a Programmer, AI Engineer, and Co-founder of [Axleo Systems](https://axleosystems.co.uk).
 
+I build SaaS products and backend systems with a strong focus on:
+- Designing APIs and backend architecture
+- Integrating LLMs and RAG pipelines
+- Automating workflows and internal operations
+- Shipping production-ready web applications
+- Building AI-powered tools for real business use cases
 
-I'm a Programmer, AI Engineer, and a Co-founder of [Axleo Systems](https://axleosystems.co.uk).
-
-My work primarily involves building SaaS products and backend systems, contributing mainly through designing APIs, integrating LLMs and RAG pipelines, automating workflows, and shipping production-ready web applications.
-  
-
-
-### Social  
+### Social
 <a href="https://github.com/louayfj" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://linkedin.com/in/louayfaraj" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.kaggle.com/louayfaraj" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
 <a href="https://medium.com/@louayaraj" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-  
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
 
-<br/>  
+<br/>
 
-
-## Rapidfire  
+### Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I'm currently building SaaS products and backend systems
-
-- 🤖 I'm exploring LLM integrations and RAG pipelines
-
+- 🤖 I'm working on LLM integrations, RAG pipelines, and AI workflows
+- 🧠 I design APIs, backend systems, and production-ready architectures
+- ⚙️ I automate workflows and build AI-powered tools for real business use cases
+- 💬 Ask me about SaaS engineering, backend design, AI integrations, or RAG systems
 - ⚡ Fun fact: I keep night shift switched on at all times
-
-- 💬 Ask me about APIs, SaaS architecture, or AI integrations 
-
 
 </td><td valign="top" width="50%">
 
 <div align="right">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM4NzZmMGlobXQzcTR6MW9ubjRqcmVxcGpoaTVjejN4Z2c2M2U1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" align="right" style="width: 100%" />
-</div>  
+</div>
 
+</td></tr></table>
 
-</td></tr></table>  
+<br/>
 
-<br/>  
+## Tech I work with
 
+<div align="center">
 
-## Languages & Tools  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Codex-5E3BEE?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
-**Languages**  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/python" alt="Python" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/javascript" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/typescript" alt="TypeScript" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5" alt="HTML5" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/css3" alt="CSS3" height="25" /></a>  
-</div>  
-
-**Frontend**  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/react" alt="React" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nextdotjs/000/fff" alt="Next.js" height="25" /></a>  
-<a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/astro" alt="Astro" height="25" /></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/figma" alt="Figma" height="25" /></a>  
-</div>  
-
-**Backend & Databases**  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mysql" alt="MySQL" height="25" /></a>  
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/supabase" alt="Supabase" height="25" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/redis" alt="Redis" height="25" /></a>  
-</div>  
-
-**AI & LLMs**  
-<div align="center">  
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/openai/000/fff" alt="OpenAI" height="25" /></a>  
-<a href="https://www.anthropic.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/anthropic/000/fff" alt="Anthropic / Claude" height="25" /></a>  
-<a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" height="25" /></a>  
-<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" height="25" /></a>  
-<a href="https://langchain.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/langchain" alt="LangChain" height="25" /></a>  
-</div>  
-
-**AI Coding Assistants**  
-<div align="center">  
-<a href="https://platform.openai.com/docs/assistants/overview" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" height="25" /></a>  
-<a href="https://www.anthropic.com/claude-code" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" height="25" /></a>  
-<a href="https://github.com/features/copilot" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/githubcopilot/000/fff" alt="GitHub Copilot" height="25" /></a>  
-</div>  
-
-**DevOps & Cloud**  
-<div align="center">  
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/vercel/000/fff" alt="Vercel" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonaws" alt="AWS" height="25" /></a>  
-<a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/microsoftazure" alt="Azure" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/docker" alt="Docker" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/github/000/fff" alt="GitHub" height="25" /></a>  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/git" alt="Git" height="25" /></a>  
-</div>  
+</div>
